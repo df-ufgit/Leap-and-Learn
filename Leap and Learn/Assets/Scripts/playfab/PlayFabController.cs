@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System;
 using System.Linq;
 using UnityEngine.SocialPlatforms.Impl;
-using static UnityEngine.InputManagerEntry;
+//using static UnityEngine.InputManagerEntry;
 using Newtonsoft.Json;
 using UnityEngine.SceneManagement;
 
