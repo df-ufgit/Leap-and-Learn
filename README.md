@@ -1,6 +1,6 @@
 # Leap and Learn  
 
-**Leap and Learn** is a Frogger-inspired educational game designed to help elementary school students improve their math skills through fun and interactive gameplay. Players solve math problems to control their character, dodge obstacles, and complete levels while earning rewards.  
+**Leap and Learn** is a Frogger-inspired educational game designed to help students improve their math skills through fun and interactive gameplay. Players solve math problems to control their character, dodge obstacles, and complete levels while earning rewards.  
 
 ---
 
